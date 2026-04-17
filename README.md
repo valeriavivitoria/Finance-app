@@ -1,6 +1,7 @@
 # Finance App Portfolio
 
-![Finance App Banner](./screenshots/finance-app-banner.png)
+![Finance App Banner]
+<img width="1348" height="575" alt="dashboard" src="https://github.com/user-attachments/assets/b67d64cc-f3d6-4109-b607-3b9f814b0538" />
 
 ## Descrição
 
