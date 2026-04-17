@@ -1,5 +1,6 @@
 # Finance App Portfolio
 
+## Interface do sistema
 <img width="1348" height="575" alt="dashboard" src="https://github.com/user-attachments/assets/b67d64cc-f3d6-4109-b607-3b9f814b0538" />
 
 ## Descrição
@@ -67,19 +68,21 @@ finance-app/
 
 ## Screenshots
 
-> As imagens abaixo são placeholders. Substitua por capturas reais para valorizar o portfólio.
-
 - Dashboard
 
-  ![Dashboard Placeholder](./screenshots/dashboard.png)
+ <img width="1348" height="575" alt="dashboard" src="https://github.com/user-attachments/assets/ef2d4a69-9248-4767-9518-fdcf98a10e87" />
+ 
 
 - Login
 
-  ![Login Placeholder](./screenshots/login.png)
+  <img width="1344" height="591" alt="pagina de login" src="https://github.com/user-attachments/assets/bba863d3-7127-42df-88ac-959d81cbd09b" />
+  
 
 - Registro de transações
 
-  ![Transactions Placeholder](./screenshots/transactions.png)
+<img width="947" height="452" alt="transacao" src="https://github.com/user-attachments/assets/81ea68ca-e483-4af6-ba5c-bfc56d4f692e" />
+
+
 
 ## Como instalar
 
@@ -203,9 +206,9 @@ Cada camada mantém a responsabilidade clara entre lógica de negócio, rotas e 
 
 ## Contato profissional
 
-- LinkedIn: [https://www.linkedin.com/in/seu-nome](https://www.linkedin.com/in/seu-nome)
-- Email: seu.email@dominio.com
-- GitHub: [https://github.com/seu-usuario](https://github.com/seu-usuario)
+- LinkedIn: https://www.linkedin.com/in/valeria-vitoria-santos
+- Email: valeriavalvivi@gmail.com
+- GitHub: https://github.com/valeriavivitoria
 
 ---
 
